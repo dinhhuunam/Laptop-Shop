@@ -36,6 +36,7 @@ public class LoginServlet extends HttpServlet {
 				request.setAttribute("mess","Wrong user or pass");
 				request.getRequestDispatcher("login.jsp").forward(request, response);;
 			}else {
+				request.getSession().setAttribute("auth", a);
 				request.getRequestDispatcher("index.jsp").forward(request, response);
 			}
 		} catch (Exception e) {
