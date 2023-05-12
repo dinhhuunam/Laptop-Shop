@@ -12,7 +12,7 @@ Backend: Servlet, Mysql
 
 
 
-![](signup.jpg)
+![signup](https://github.com/dinhhuunam/Laptop-Shop/assets/76550466/89ec99cd-08db-4a69-804b-d39fe5e6e04a)
 
 
 
@@ -22,7 +22,7 @@ Backend: Servlet, Mysql
 
 
 
-![](login.jpg)
+![login](https://github.com/dinhhuunam/Laptop-Shop/assets/76550466/9c3a5e50-6337-4408-954e-086a86e8e7e6)
 
 
 
@@ -31,8 +31,7 @@ Backend: Servlet, Mysql
 
 
 
-
-![](home.jpg)
+![home](https://github.com/dinhhuunam/Laptop-Shop/assets/76550466/5f409490-1a5b-433f-9043-dd179b7d8d42)
 
 
 
@@ -40,7 +39,7 @@ Backend: Servlet, Mysql
 
 
 
-![](cart.jpg)
+![Cart](https://github.com/dinhhuunam/Laptop-Shop/assets/76550466/2a4fb24f-cb35-4978-92fe-02765b38a41c)
 
 
 
@@ -50,7 +49,7 @@ Backend: Servlet, Mysql
 
 
 
-![](btn1.jpg)
+![btn1](https://github.com/dinhhuunam/Laptop-Shop/assets/76550466/171e558e-6286-4409-aef9-cc1741a2eaf3)
 
 
 
@@ -63,7 +62,7 @@ Backend: Servlet, Mysql
 
 
 
-![](Orders.jpg)
+![Orders](https://github.com/dinhhuunam/Laptop-Shop/assets/76550466/108d853c-aaf7-43b7-8188-1cd817c2e408)
 
 
 
@@ -71,7 +70,7 @@ Backend: Servlet, Mysql
 
 
 
-![](MVC.jpg)
+![MVC](https://github.com/dinhhuunam/Laptop-Shop/assets/76550466/458f3f30-06d9-46e3-930a-b8c28880bba5)
 
 
 
@@ -81,7 +80,8 @@ Backend: Servlet, Mysql
 
 
 
-![](View.jpg)
+![View](https://github.com/dinhhuunam/Laptop-Shop/assets/76550466/c6ed68f8-fa2a-4cd1-be36-ee74cf4690f3)
+Shop/assets/76550466/458f3f30-06d9-46e3-930a-b8c28880bba5)
 
 
 
@@ -91,14 +91,14 @@ Backend: Servlet, Mysql
 - Chứa thông tin của các entities.
 
 
-![](Model.jpg)
+![Model](https://github.com/dinhhuunam/Laptop-Shop/assets/76550466/35fbdb3a-db8c-404f-93b2-733cb72bc0ab)
 
 
 
 - Kết nối với Mysql
 
 
-![](connection.jpg)
+![connection](https://github.com/dinhhuunam/Laptop-Shop/assets/76550466/dcfe4918-6593-45c5-b6d7-c5f7a5a2b6a6)
 
 
 
@@ -106,7 +106,9 @@ Backend: Servlet, Mysql
 
 
 
-![](dao.jpg)
+![dao](https://github.com/dinhhuunam/Laptop-Shop/assets/76550466/8dc1ccd8-4228-444c-9744-3b2526aae0eb)
+m/dinhhuunam/Laptop-Shop/assets/76550466/35fbdb3a-db8c-404f-93b2-733cb72bc0ab)
+![connection](https://github.com/dinhhuunam/Laptop-Shop/assets/76550466/dcfe4918-6593-45c5-b6d7-c5f7a5a2b6a6)
 
 
 # Controller: Kết nối giữa tầng Model và tầng View
@@ -114,4 +116,6 @@ Backend: Servlet, Mysql
 
 
 
-![](servlet.jpg)
+![servlet](https://github.com/dinhhuunam/Laptop-Shop/assets/76550466/b914720f-8bc1-4e96-a319-684b9c40039d)
+db3a-db8c-404f-93b2-733cb72bc0ab)
+![connection](https://github.com/dinhhuunam/Laptop-Shop/assets/76550466/dcfe4918-6593-45c5-b6d7-c5f7a5a2b6a6)
