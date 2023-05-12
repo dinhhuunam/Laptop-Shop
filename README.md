@@ -106,15 +106,13 @@ Shop/assets/76550466/458f3f30-06d9-46e3-930a-b8c28880bba5)
 
 
 
-![dao](https://github.com/dinhhuunam/Laptop-Shop/assets/76550466/8dc1ccd8-4228-444c-9744-3b2526aae0eb)
-m/dinhhuunam/Laptop-Shop/assets/76550466/35fbdb3a-db8c-404f-93b2-733cb72bc0ab)
-![connection](https://github.com/dinhhuunam/Laptop-Shop/assets/76550466/dcfe4918-6593-45c5-b6d7-c5f7a5a2b6a6)
+![dao](https://github.com/dinhhuunam/Laptop-Shop/assets/76550466/290b0920-f0e3-4be1-b29c-dcb34ce19e91)
 
 
 # Controller: Kết nối giữa tầng Model và tầng View
 - Xử lý các logic từ tầng Model chuyển đến
 
 
+![servlet](https://github.com/dinhhuunam/Laptop-Shop/assets/76550466/4e05733c-2b0c-483c-b235-710274313a3a)
 
-![servlet](https://github.com/dinhhuunam/Laptop-Shop/assets/76550466/b914720f-8bc1-4e96-a319-684b9c40039d)
 
