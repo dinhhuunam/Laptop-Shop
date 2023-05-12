@@ -80,8 +80,7 @@ Backend: Servlet, Mysql
 
 
 
-![View](https://github.com/dinhhuunam/Laptop-Shop/assets/76550466/c6ed68f8-fa2a-4cd1-be36-ee74cf4690f3)
-Shop/assets/76550466/458f3f30-06d9-46e3-930a-b8c28880bba5)
+![View](https://github.com/dinhhuunam/Laptop-Shop/assets/76550466/587ec59a-24f2-4e3e-a8f3-5e67aded429d)
 
 
 
