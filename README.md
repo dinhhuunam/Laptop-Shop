@@ -117,5 +117,4 @@ m/dinhhuunam/Laptop-Shop/assets/76550466/35fbdb3a-db8c-404f-93b2-733cb72bc0ab)
 
 
 ![servlet](https://github.com/dinhhuunam/Laptop-Shop/assets/76550466/b914720f-8bc1-4e96-a319-684b9c40039d)
-db3a-db8c-404f-93b2-733cb72bc0ab)
-![connection](https://github.com/dinhhuunam/Laptop-Shop/assets/76550466/dcfe4918-6593-45c5-b6d7-c5f7a5a2b6a6)
+
