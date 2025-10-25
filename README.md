@@ -4,7 +4,7 @@ Fronted: HTML,CSS,Boostrap
 Backend: Servlet, Mysql
 
 
-# Ảnh chụp màn hình và mô tả chức năng
+# Mô tả chức năng
 
 ----
 - Ban đầu người dùng vào web cần phải đăng ký thành viên
